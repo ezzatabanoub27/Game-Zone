@@ -1,0 +1,591 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# projects\\GameHUB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\attributes\\allowedextentionsattrbute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:attributes\\allowedextentionsattrbute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\viewmodels\\creategameformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:viewmodels\\creategameformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\viewmodels\\editgameformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:viewmodels\\editgameformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\viewmodels\\gameformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:viewmodels\\gameformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\wwwroot\\js\\delete.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:wwwroot\\js\\delete.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\services\\igameservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:services\\igameservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\views\\games\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:views\\games\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\views\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:views\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\settings\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:settings\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\views\\games\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:views\\games\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\attributes\\allowedsizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:attributes\\allowedsizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\services\\devicesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:services\\devicesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\services\\cateogriesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:services\\cateogriesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\services\\icateogriesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:services\\icateogriesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\services\\idevicesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:services\\idevicesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\models\\gamedevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:models\\gamedevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\models\\cateogry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:models\\cateogry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|d:\\c# projects\\gamehub\\migrations\\20240930180937_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F83C5-4329-4197-B2EF-16ED4B63E2BD}|GameHUB.csproj|solutionrelative:migrations\\20240930180937_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.js",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\wwwroot\\js\\Delete.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Delete.js",
+              "ToolTip": "D:\\c# projects\\GameHUB\\wwwroot\\js\\Delete.js",
+              "RelativeToolTip": "wwwroot\\js\\Delete.js",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-10T14:51:08.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Models\\Game.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Models\\Game.cs",
+              "RelativeToolTip": "Models\\Game.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:39:59.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateGameFormViewModel.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\ViewModels\\CreateGameFormViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CreateGameFormViewModel.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\ViewModels\\CreateGameFormViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CreateGameFormViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:45:03.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditGameFormModel.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\ViewModels\\EditGameFormModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EditGameFormModel.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\ViewModels\\EditGameFormModel.cs",
+              "RelativeToolTip": "ViewModels\\EditGameFormModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:01:07.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameFormModel.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\ViewModels\\GameFormModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\GameFormModel.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\ViewModels\\GameFormModel.cs",
+              "RelativeToolTip": "ViewModels\\GameFormModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:01:32.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllowedExtentionsAttrbute.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Attributes\\AllowedExtentionsAttrbute.cs",
+              "RelativeDocumentMoniker": "Attributes\\AllowedExtentionsAttrbute.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Attributes\\AllowedExtentionsAttrbute.cs",
+              "RelativeToolTip": "Attributes\\AllowedExtentionsAttrbute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:59:41.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T20:01:12.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\c# projects\\GameHUB\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T17:02:14.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGameServices.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Services\\IGameServices.cs",
+              "RelativeDocumentMoniker": "Services\\IGameServices.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Services\\IGameServices.cs",
+              "RelativeToolTip": "Services\\IGameServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T22:42:15.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Views\\Games\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Games\\Index.cshtml",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Views\\Games\\Index.cshtml",
+              "RelativeToolTip": "Views\\Games\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T19:13:36.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Views\\Games\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Games\\Create.cshtml",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Views\\Games\\Create.cshtml",
+              "RelativeToolTip": "Views\\Games\\Create.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAIwE8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T18:24:37.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T17:17:50.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "Services\\GameService.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Services\\GameService.cs",
+              "RelativeToolTip": "Services\\GameService.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAqwH4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T22:42:49.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GamesController.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "Controllers\\GamesController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAAHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:23:01.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T20:19:23.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Views\\Games\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Games\\Edit.cshtml",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Views\\Games\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Games\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAE8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T01:11:51.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileSettings.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Settings\\FileSettings.cs",
+              "RelativeDocumentMoniker": "Settings\\FileSettings.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Settings\\FileSettings.cs",
+              "RelativeToolTip": "Settings\\FileSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:31:28.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Views\\Games\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Games\\Details.cshtml",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Views\\Games\\Details.cshtml",
+              "RelativeToolTip": "Views\\Games\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T00:31:11.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwB8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:59:34.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:27:33.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "GlobalUsings.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\GlobalUsings.cs",
+              "RelativeToolTip": "GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:09:20.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "D:\\c# projects\\GameHUB\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-06T18:28:07.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T17:32:04.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\c# projects\\GameHUB\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-06T18:12:57.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AllowedSizeAttribute.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Attributes\\AllowedSizeAttribute.cs",
+              "RelativeDocumentMoniker": "Attributes\\AllowedSizeAttribute.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Attributes\\AllowedSizeAttribute.cs",
+              "RelativeToolTip": "Attributes\\AllowedSizeAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:26:22.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:04:36.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DevicesServices.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Services\\DevicesServices.cs",
+              "RelativeDocumentMoniker": "Services\\DevicesServices.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Services\\DevicesServices.cs",
+              "RelativeToolTip": "Services\\DevicesServices.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T22:21:23.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CateogriesServices.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Services\\CateogriesServices.cs",
+              "RelativeDocumentMoniker": "Services\\CateogriesServices.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Services\\CateogriesServices.cs",
+              "RelativeToolTip": "Services\\CateogriesServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T22:05:07.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICateogriesServices.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Services\\ICateogriesServices.cs",
+              "RelativeDocumentMoniker": "Services\\ICateogriesServices.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Services\\ICateogriesServices.cs",
+              "RelativeToolTip": "Services\\ICateogriesServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T22:06:31.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IDevicesServices.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Services\\IDevicesServices.cs",
+              "RelativeDocumentMoniker": "Services\\IDevicesServices.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Services\\IDevicesServices.cs",
+              "RelativeToolTip": "Services\\IDevicesServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T22:21:43.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GameDevice.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Models\\GameDevice.cs",
+              "RelativeDocumentMoniker": "Models\\GameDevice.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Models\\GameDevice.cs",
+              "RelativeToolTip": "Models\\GameDevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:40:53.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240930180937_firstmig.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Migrations\\20240930180937_firstmig.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240930180937_firstmig.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Migrations\\20240930180937_firstmig.cs",
+              "RelativeToolTip": "Migrations\\20240930180937_firstmig.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:09:37.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "Models\\Device.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Models\\Device.cs",
+              "RelativeToolTip": "Models\\Device.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:40:11.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Cateogry.cs",
+              "DocumentMoniker": "D:\\c# projects\\GameHUB\\Models\\Cateogry.cs",
+              "RelativeDocumentMoniker": "Models\\Cateogry.cs",
+              "ToolTip": "D:\\c# projects\\GameHUB\\Models\\Cateogry.cs",
+              "RelativeToolTip": "Models\\Cateogry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:40:37.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
